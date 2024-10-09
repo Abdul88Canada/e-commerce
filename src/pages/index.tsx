@@ -51,7 +51,6 @@ export default function Home() {
         />
         <ExclusiveBlock />
         <NewArrivalsProductFeed />
-        <DownloadApps />
         <Support />
         <Instagram />
         <Subscription className="px-5 py-12 bg-opacity-0 sm:px-16 xl:px-0 md:py-14 xl:py-16" />
